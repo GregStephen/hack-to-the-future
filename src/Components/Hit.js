@@ -18,7 +18,10 @@ function Hit({ hit }) {
           <div className="hit-description">
             <p>Species: {hit.species}</p>
             <p>Status: {hit.status}</p>
-            <p>Type: {hit.type}</p>
+            {hit.type ?             
+            <p>Type: {hit.type}</p> 
+          : ''}
+
             <p>Origin: {hit.origin.name}</p>
           </div>
         </div>
