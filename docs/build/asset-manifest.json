@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hack-to-the-future/static/css/main.54f48d61.chunk.css",
+    "main.js": "/hack-to-the-future/static/js/main.cbe6b189.chunk.js",
+    "main.js.map": "/hack-to-the-future/static/js/main.cbe6b189.chunk.js.map",
+    "runtime-main.js": "/hack-to-the-future/static/js/runtime-main.ee9d2e51.js",
+    "runtime-main.js.map": "/hack-to-the-future/static/js/runtime-main.ee9d2e51.js.map",
+    "static/js/2.d1501b0c.chunk.js": "/hack-to-the-future/static/js/2.d1501b0c.chunk.js",
+    "static/js/2.d1501b0c.chunk.js.map": "/hack-to-the-future/static/js/2.d1501b0c.chunk.js.map",
+    "index.html": "/hack-to-the-future/index.html",
+    "precache-manifest.250e9461e0c609d6c193b19691b6731d.js": "/hack-to-the-future/precache-manifest.250e9461e0c609d6c193b19691b6731d.js",
+    "service-worker.js": "/hack-to-the-future/service-worker.js",
+    "static/css/main.54f48d61.chunk.css.map": "/hack-to-the-future/static/css/main.54f48d61.chunk.css.map",
+    "static/js/2.d1501b0c.chunk.js.LICENSE.txt": "/hack-to-the-future/static/js/2.d1501b0c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee9d2e51.js",
+    "static/js/2.d1501b0c.chunk.js",
+    "static/css/main.54f48d61.chunk.css",
+    "static/js/main.cbe6b189.chunk.js"
+  ]
+}
