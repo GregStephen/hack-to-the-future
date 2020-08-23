@@ -50,7 +50,8 @@ a {
 }
 
 .title{
-  width: 40%;
+  width: 100%;
+  text-align: center;
   background-color: white;
   padding: 1em;
   border: black 2px solid;
@@ -202,6 +203,8 @@ a {
   font-size: 12px;
   color: #697782;
   opacity: 1;
+  background-color: white;
+  border-radius: .3em;
 }
 
 #hits {
